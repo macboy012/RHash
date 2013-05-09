@@ -1,3 +1,4 @@
+
 # Sample usage:
 # compile with debug info: make CFLAGS=-g
 # compile for pentiumpro: make CFLAGS="-O2 -DNDEBUG -march=i586 -mcpu=pentiumpro -fomit-frame-pointer"
